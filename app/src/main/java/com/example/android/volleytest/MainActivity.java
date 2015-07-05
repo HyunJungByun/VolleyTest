@@ -38,4 +38,10 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+    /*
+    새로운 네트워크 기능
+
+
+    
+     */
 }
